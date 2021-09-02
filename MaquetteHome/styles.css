@@ -1,0 +1,99 @@
+body{
+  background:linear-gradient( rgb(169, 220, 233),white);
+  background-repeat: no-repeat;
+  }
+  
+  .titre{
+    font-family: "Gill Sans", sans-serif;
+    color:rgb(66, 137, 204);
+    font-weight: bold;
+    border-bottom: 0.5px solid rgb(102, 102, 104);
+  border-top: 0.5px solid rgb(102, 102, 104);
+  border-right:transparent ;
+  border-left: transparent;
+  margin: 2px;
+  width:100%;
+  
+    
+   
+
+  }
+
+
+  .e1{
+      background-color: cyan;
+      
+  }
+
+  p{
+color:#2670b9;
+font-weight: bold;
+display: block;
+width:59%;
+
+  }
+
+  .quote{
+    width: 30px;
+  }
+.home1{
+  position: relative;
+  left:60%;
+ bottom:65%;
+ border-radius: 8px;
+ opacity: 0.5;
+  
+  
+}
+.home1:hover{
+  opacity: 1;
+}
+
+.but{
+background-color: lightseagreen;
+border-radius: 8px;
+padding: 0.5%;
+
+}
+
+.home2{
+  position: relative;
+  left:70%;
+ bottom:72%;
+ border-radius: 8px;
+opacity: 0.5;
+  
+}
+
+.home2:hover{
+  opacity: 1;
+}
+.icons{
+
+ margin: 20px;
+
+}
+
+.logo{
+
+position: absolute;
+left: 40% ;
+
+padding: 0.5cm;
+
+}
+
+.lin{
+text-decoration: none;
+text-align: center;
+color: #2670b9;
+position: relative;
+top:20%;
+left:42%;
+
+padding: 10px;
+}
+
+.lin:hover {
+  text-decoration-line: underline;
+}

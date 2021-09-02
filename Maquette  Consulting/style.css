@@ -1,0 +1,92 @@
+.tete{
+border:10px solid rgb(80, 121, 184);
+background-color: rgb(80, 121, 184);
+padding: 80px;
+}
+
+.main{
+    text-align: center;
+    
+    
+
+    
+}
+
+a{
+    color: white;
+   text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover{
+    text-transform: uppercase;
+    
+}
+
+.contain{
+width:80%;
+
+
+
+}
+
+img {
+
+    float:left;
+    width:280px;
+    height:260px;
+    padding: 0 10px 0 0;
+    border-radius: 8px;
+}
+
+.text{
+    text-align: justify;
+    color:rgb(156, 156, 156);
+    
+}
+
+.button{
+    background-color: rgb(76, 134, 221);
+    color:white;
+    border: 1px solid rgb(76, 134, 221);
+    padding:10px;
+    text-decoration-line: none;
+    position: relative;
+    left:90%;
+}
+.button:hover {
+    background-color: rgb(52, 100, 172);
+    
+}
+.button:active {
+     background-color: blue}
+h1{
+    color: rgb(68, 67, 67);
+    text-shadow: 2px 2px 5px rgb(119, 114, 114);
+}
+
+
+.logo{
+width:200px;
+height: 90px;
+    position: absolute;
+    left: 40% ;
+    
+    
+    
+    }
+    
+    .lin{
+    text-decoration: none;
+    text-align: center;
+    color: #2670b9;
+    position: relative;
+    top:20%;
+    left:41%;
+    
+    padding: 10px;
+    }
+    
+    .lin:hover {
+      text-decoration-line: underline;
+    }
